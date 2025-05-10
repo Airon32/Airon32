@@ -9,6 +9,7 @@
 ---
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="Python" 
@@ -40,3 +41,9 @@
   />
 
 </p>
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=simple-dictionary&theme=midnight-purple)](https://github.com/lucanogueirasouza/cpf-validator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=dia-das-maes&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
