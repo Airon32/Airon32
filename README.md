@@ -7,9 +7,10 @@
 
 ## **Future Software Developer**
 ---
-### 🤖 Linguagens e Tecnologias:
+### 🤖 Languages and Technologies:
 
 <br/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -22,8 +23,8 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
+### 📊 statistics
+<br/> 
 <p>
   <img 
     align="left" 
@@ -39,8 +40,6 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airon32&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  ----------
-
 <br/>
 <br/>
 <br/>
@@ -61,7 +60,7 @@
 <br/>
 
 ## **My School Projects:**
-
+---
 
 <br/>
 
