@@ -5,11 +5,11 @@
 - ⚡ I like working together
 - 📍 i live in São Paulo, Brazil
 
-## Futuro Desenvolvedor de Softwer
+## **Future Software Developer**
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias:
 
-
+<br/>
 <img 
     align="left" 
     alt="Python" 
@@ -39,11 +39,30 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airon32&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<br/>
+<br/>
+<br/>
+<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+<br/>
+<br/>
 
-</p>
+## **My School Projects:**
+
 
 <br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=simple-dictionary&theme=midnight-purple)](https://github.com/Airon32/simple-dictionary)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=dia-das-maes&theme=midnight-purple)](https://github.com/lucanogueirasouza/login-screen-for-websites)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=dia-das-maes&theme=midnight-purple)](https://github.com/Airon32/dia-das-maes)
