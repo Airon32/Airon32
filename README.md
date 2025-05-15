@@ -1,4 +1,4 @@
-## Hellou! i´m Airon Cavalcante, and that´s my github page.
+## Hello! i´m Airon Cavalcante, and that´s my github page.
 ----------------------------------------------------------
 - 🕛 I’m 16 year old
 - 🌱 I’m currently learning python
