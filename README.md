@@ -1,6 +1,6 @@
 ## Hello! i´m Airon Cavalcante, and that´s my github page.
 ----------------------------------------------------------
-- 🕛 I’m 16 year old
+- 🕛 I’m 16 years old
 - 🌱 I’m currently learning python
 - ⚡ I like working together
 - 📍 i live in São Paulo, Brazil
