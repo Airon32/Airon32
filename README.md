@@ -67,4 +67,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=simple-dictionary&theme=midnight-purple)](https://github.com/Airon32/simple-dictionary)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=dia-das-maes&theme=midnight-purple)](https://github.com/Airon32/dia-das-maes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=complex-calculator&theme=midnight-purple)](https://github.com/Airon32/complex-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=complex-calculator&theme=midnight-purple)](https://github.com/Airon32/complex-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=finance-accountant-&theme=midnight-purple)](https://github.com/Airon32/finance-accountant-)
