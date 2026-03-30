@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Airon Cavalcante  
 
-- 🕛 16 years old  
+- 🕛 18 years old  
 - 🌱 Currently learning **Python**  
 - ⚡ I like teamwork and collaboration  
 - 📍 São Paulo, Brazil  
